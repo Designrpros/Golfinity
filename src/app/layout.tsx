@@ -1,7 +1,6 @@
 import { ReactNode } from "react";
 import StyledComponentsRegistry from "../components/styled-components-registry";
 import ThemeWrapper from "../components/ThemeWrapper";
-import { CSSProperties } from "react";
 import Toolbar from "../components/Toolbar";
 
 export const metadata = {
