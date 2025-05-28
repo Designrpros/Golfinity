@@ -103,7 +103,7 @@ export default function Home() {
           priority
         />
         <HeroText>
-          <HeroTitle>Golfex</HeroTitle>
+          <HeroTitle>Golfinity</HeroTitle>
           <HeroSubtitle>Your guide to mastering the game of golf</HeroSubtitle>
         </HeroText>
       </HeroContainer>
@@ -111,7 +111,7 @@ export default function Home() {
       {/* Content Section */}
       <ContentContainer>
         <Section>
-          <SectionTitle>Welcome to Golfex</SectionTitle>
+          <SectionTitle>Welcome to Golfinity</SectionTitle>
           <SectionText>
             Golfex is your ultimate resource for learning and mastering golf, focusing on techniques, equipment, and course strategies. Whether you’re a beginner picking up a club for the first time or a seasoned player aiming to lower your handicap, our site offers clear, practical guides to elevate your game. Scroll down to explore what you’ll find on each page.
           </SectionText>
@@ -120,7 +120,7 @@ export default function Home() {
         <Section>
           <SectionTitle>What to Expect</SectionTitle>
           <SectionText>
-            Golfex is packed with actionable insights and tips to help you excel on the course. Here’s a quick overview of what you’ll find on each page:
+            Golfinity is packed with actionable insights and tips to help you excel on the course. Here’s a quick overview of what you’ll find on each page:
           </SectionText>
           <SectionList>
             <ListItem>
