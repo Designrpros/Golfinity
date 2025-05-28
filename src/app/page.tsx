@@ -113,7 +113,7 @@ export default function Home() {
         <Section>
           <SectionTitle>Welcome to Golfinity</SectionTitle>
           <SectionText>
-            Golfex is your ultimate resource for learning and mastering golf, focusing on techniques, equipment, and course strategies. Whether you’re a beginner picking up a club for the first time or a seasoned player aiming to lower your handicap, our site offers clear, practical guides to elevate your game. Scroll down to explore what you’ll find on each page.
+            Golfinity is your ultimate resource for learning and mastering golf, focusing on techniques, equipment, and course strategies. Whether you’re a beginner picking up a club for the first time or a seasoned player aiming to lower your handicap, our site offers clear, practical guides to elevate your game. Scroll down to explore what you’ll find on each page.
           </SectionText>
         </Section>
 
