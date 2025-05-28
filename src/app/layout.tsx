@@ -9,19 +9,6 @@ export const metadata = {
   description: "A Next.js golf resource with Styled Components",
 };
 
-const heroStyle: CSSProperties = {
-  background: "#1b5e20", // Dark green from theme
-  padding: "4rem 2rem",
-  textAlign: "center",
-};
-
-const heroTitleStyle: CSSProperties = {
-  fontSize: "3rem",
-  fontWeight: 700,
-  color: "#ffffff", // White for contrast
-  margin: 0,
-};
-
 export default function RootLayout({ children }: { children: ReactNode }) {
   return (
     <html lang="en">
