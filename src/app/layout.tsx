@@ -4,8 +4,8 @@ import ThemeWrapper from "../components/ThemeWrapper";
 import Toolbar from "../components/Toolbar";
 
 export const metadata = {
-  title: "Golfex - Your Golf Mastery Guide",
-  description: "A Next.js golf resource with Styled Components",
+  title: "Golfinity",
+  description: "Your Golf Mastery Guide",
 };
 
 export default function RootLayout({ children }: { children: ReactNode }) {
